@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #222;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#display {
+    font-size: 50px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}
+
+.botoes {
+    margin-top: 30px;
+}
+
+button {
+    padding: 10px 25px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#start { background: green; color: white; }
+#pause { background: orange; color: white; }
+#reset { background: red; color: white; }
